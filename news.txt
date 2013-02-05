@@ -1,0 +1,16 @@
+
+TRACK="true"
+HNEWS="This is a news ticker from hioxindia"
+HLINK="http://www.hioxindia.com"
+
+TRACK="false"
+HNEWS="free scripts and tutorial"
+HLINK="http://www.hscripts.com"
+
+TRACK="false"
+HNEWS="free web hosting "
+HLINK="http://www.hiox.com"
+
+TRACK="true"
+HNEWS="online calculator and binary / hex / ascii convertors"
+HLINK="http://www.easycalculation.com"

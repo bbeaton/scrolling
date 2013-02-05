@@ -1,0 +1,7 @@
+background-color="white"
+font-color="black"
+font-size="16px"
+scrollamount="2"
+scrolldelay="0"
+width="612"
+height="612"

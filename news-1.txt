@@ -1,0 +1,389 @@
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="In prosperity our friends know us; in adversity we know our friends.
+John Churton Collins"
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Sept. 7's Gobblerfest will showcase Virginia Tech campus and the new Turne Place Dining Hall http://ar.gy/1eox #VirginiaTech "
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker.
+Helen Keller (1880 - 1968)"
+ 
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="A battle plan for plates: Virginia Tech research helps manage its new Dining Hall while maintaining its operations. #VirginiaTech" 
+
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse.
+Brian Eno, Wired 1/99, p. 176"
+
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech study: Appropriate nutrition labeling on children's meals at Turner Place #VirginiaTech" 
+
+HNEWS="David"
+HTRACK="false"
+HLINK="http://www.hiox.com"
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Virginia Tech welcomes more students to new dining halls http://ar.gy/1aKt" 
+
+HNEWS="Radred"
+HTRACK="false"
+HLINK="SMX quits NZICT in protest over Patents Bill stance http://t.co/wE1kSUoT"
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Just got given free ice cream! perks of working at dairy related org :)"
+
+HNEWS="Manuel"
+HTRACK="false"
+HLINK="There's nothing quite like the struggle to come up with meaningful code names for your new solution's components… #setsthetone"
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="All set up at my new desk, including shiny new Samsung S23B300 screen…. its very nice"
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="Video of Homeclub in action: http://t.co/OizVVtit 
+ GIMP is Now a Self-Contained Native App for Mac OS X http://t.co/odGkMF7J" 
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="Nice to see all the press for the Westpac Homeclub that @ClearPointNZ built: http://t.co/WwgeTu7A" 
+
+HNEWS="David"
+HTRACK="false"
+HLINK="http://www.easycalculation.com"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="http://www.hiox.com"
+
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="Details of 1 million accounts from over 100 websites leaked over the weekend http://t.co/6VfdU2ha" 
+
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Virginia Tech Dining Services makes strides toward sustainability http://ar.gy/1b4k " 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Celebration for Toni Morrison, dinosaur petting zoo among Center for the Arts' 2012-13 season events http://ar.gy/1b4a" 
+ 
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Virginia Tech welcomes more than 9,000 students to new dining halls http://ar.gy/1aKt" 
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="just found out that Neil Armstrong died! Boo :-( http://t.co/DvmMh" 
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="Last day on the beach today :-( http://t.co/o8P7r7EK" 
+
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Students have more dining opportunities than ever as new Turner Place opens, #VirginiaTech"
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Yay free ice cream Friday! "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Behold, the Toothbrush That Just Saved the International Space Station http://t.co/XfIWPgIV "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Stop Validating Email Addresses With Your Complex Regex http://t.co/Txr3olxb "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="What did Apple really invent? http://t.co/7QyGZfrf" 
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Pirate Bay Founder Arrest Followed By $59m Swedish Aid Package For Cambodia http://t.co/WnakDdOw #tinhat "
+
+HNEWS="Beccs"
+HTRACK="true"
+HLINK="DUDE! Turner Place Pics #VirginiaTech"
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="A battle plan for plates: Virginia Tech research helps manage its new Dining Hall while maintaining its operations. #VirginiaTech" 
+
+HNEWS="David"
+HTRACK="false"
+HLINK="anatomy drawings for Pixar's cars http://t.co/iiZIV076 "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Neat idea, creating text by filling bubble wrap bubbles with ink http://t.co/VJuWeLdQ "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Uurrrggh 4am is way too early to be getting ready for work…. #fieldtrip "
+
+HNEWS="Becker"
+HTRACK="true"
+HLINK="LOLz Turner Place Pics #VirginiaTech"
+
+HNEWS="David"
+HTRACK="false"
+HLINK="AntiSec leaks 1 million Apple device IDs & related data. Source appears to be file from FBI laptop http://t.co/FL3YPXlL "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Just ran my Facebook profile through Wolfram Alpha… some interesting info there: http://t.co/QslditIL "
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="I LOVE EATING AT TURNER PLACE! #VirginiaTech"
+
+HNEWS="David"
+HTRACK="false"
+HLINK="The knots used to tie the cables on the Curiosity rover: http://t.co/Ur05JRbO "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="ABC put online first ep of Dr Who, 6 days before they are due to broadcast it in effort to quell piracy http://t.co/cQkG2CKE "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="These are some pretty cool maps… http://t.co/wwfWe1pz "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="The Next Step in Apple's Thermonuclear War Against Android http://t.co/jyXmWrdC "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Oracle making moves to kill open source MySQL? http://t.co/W8hdgVsP~" 
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Virginia Tech dining halls http://ar.gy/1aKt" 
+
+HNEWS="David"
+HTRACK="false"
+HLINK="Please Don’t Learn to Code Because It Will Damage Your Tiny Brain…. http://t.co/QdLaAl8S "
+
+HNEWS="David"
+HTRACK="false"
+HLINK="The boy just threw up on me in bed…. happy Father's Day! #thejoyofkids" 
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="When a man comes to me for advice, I find out the kind of advice he wants, and I give it to him. John Billings(Henry Wheeler Shaw)"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="In this life we get only those things for which we hunt, for which we strive, and for which we are willing to sacrifice."
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="George Matthew Adams"
+
+
+HNEWS="Becker"
+HTRACK="true"
+HLINK="LOLz Turner Place Pics #VirginiaTech"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK=" NOOB  http://www.hscripts.com"
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Virginia Tech welcomes more new dining halls http://ar.gy/1aKt #VirginiaTech" 
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Silence propagates itself, and the longer talk has been suspended, the more difficult it is to find anything to say.
+Samuel Johnson (1709 - 1784)"
+
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it.
+Phillip C. McGraw, O Magazine, February 2003"
+
+HNEWS="Ricky"
+HTRACK="true"
+HLINK="Virginia Tech's Jan Wilson will be a torch bearer at opening of new virginia tech dining hall #VirginiaTech" 
+
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Things are only impossible until they're not.
+Jean-Luc Picard, 'Star Trek: The Next Generation'"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="History teaches us that men and nations behave wisely once they have exhausted all other alternatives.
+Abba Eban (1915 - 2002)"
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="Start new job today… looking forward to it. Whole new industry to learn about." 
+
+HNEWS="Becker"
+HTRACK="false"
+HLINK="MongoDB 2.2 is out http://t.co/kQBU4i1D" 
+
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="A raise is like a martini: it elevates the spirit, but only temporarily.
+Dan Seligman, in 'Forbes Magazine'"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Love isn't a decision. It's a feeling. If we could decide who we loved, it would be much simpler, but much less magical.
+Trey Parker and Matt Stone, South Park, Chef Aid, 1998"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="You must lose a fly to catch a trout. George Herbert (1593 - 1633)"
+
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="A battle plan for plates: Virginia Tech research helps manage its new Dining Hall while maintaining its operations. #VirginiaTech" 
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech study: Appropriate nutrition labeling on children's meals at Turner Place #VirginiaTech" 
+
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Video: Virginia Tech Center for the Arts to honor Toni Morrison http://ar.gy/1gxW" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Wild encounters: A wildlife professor provides advice about interacting with animals to governments and residents. http://ar.gy/1fgz" 
+ 
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Now is the time for all good men to come to.
+Walt Kelly (1913 - 1973), "Pogo" (comic strip)"
+
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech study: Appropriate nutrition labeling on children's meals at Turner Place #VirginiaTech" 
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="You can never underestimate the stupidity of the general public.
+Scott Adams (1957 - ), The Dilbert Future"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="You can't help getting older, but you don't have to get old.
+George Burns (1896 - 1996)"
+
+
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Virginia Tech earns high grades in The Princeton Review's latest college rankings: http://ar.gy/1o4m" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech nutrition meals at Turner Place #VirginiaTech" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Pamplin graduates' teamwork, preparation lure employers: http://ar.gy/1nLJ" 
+  
+
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="More than 270 engineering companies, agencies to participate in #VirginiaTech 2012 career fair: http://ar.gy/1nDS" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Corps of Cadets to visit National D-Day Memorial http://ar.gy/1lTU" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Newest members of the Virginia Tech Board of Visitors to attend their first meeting http://ar.gy/1lMg" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Pint-size molecules show promise against obesity http://ar.gy/1l5q" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech nutrition labeling on meals at Turner Place #VirginiaTech" 
+ 
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Virginia Tech's Common Book Project Committee looks for suggestions on next year’s selection http://ar.gy/1kM5" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Extraordinary Employee series: Anthony Watson is involved in nearly everything that happens on campus. http://ar.gy/1kM3" 
+ 
+  
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="New Virginia Tech nutrition labeling on meals at Turner Place #VirginiaTech" 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Midkiff named Virginia Tech's new vice president for information technology http://ar.gy/1j6G "
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="Virginia Tech Board of Visitors to meet Sept. 9-10 http://ar.gy/1j6Q "
+ 
+  
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="On a mission: Veterans find a niche at Virginia Tech http://ar.gy/1h0p "
+  
+HNEWS="Scotty"
+HTRACK="true"
+HLINK="Major building projects such as Turner Place continue to shape Virginia Tech's landscape #VirginiaTech" 
+ 
+HNEWS="Miue"
+HTRACK="true"
+HLINK="Students have more dining opportunities than ever as new Turner Place opens, #VirginiaTech" 
+ 
+HNEWS="Scotty"
+HTRACK="false"
+HLINK="MT @YMCAatVT: Reuse great household items, support the Y, save $$! #YToss Sale is on, McComas Hall, #VTMoveIn http://ow.ly/d37Oa" 
+ 
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Life is far too important a thing ever to talk seriously about.
+Oscar Wilde (1854 - 1900), Lady Windermere's Fan, 1892, Act I"
+
+HNEWS="Sarah"
+HTRACK="false"
+HLINK="Sometimes when you look in his eyes you get the feeling that someone else is driving."
+
